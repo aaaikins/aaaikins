@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aikins
+# 👋 Hi, I’m Aikins Acheampong.
 - 👀 I’m interested in AI/ML.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach me: aaache27@colby.edu
