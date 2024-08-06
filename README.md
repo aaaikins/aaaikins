@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aikins Acheampong.
-- 👀 I’m interested in AI/ML.
-- 🌱 I’m currently learning Machine Learning.
+- 👀 I’m interested in Web dev and Machine Learning
+- 🌱 I’m currently learning Javascript and honing my skills in python
 - 📫 How to reach me: aaache27@colby.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love watching anime
