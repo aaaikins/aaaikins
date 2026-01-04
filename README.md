@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaikins&label=Profile%20views&color=0e75b6&style=flat" alt="aaaikins" /> </p>
 
-- 🌱 I’m currently learning **Flask, React and Tensorflow**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **AWS**
 
 - 📫 How to reach me **aaache27@colby.edu**
 
